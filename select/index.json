@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Fireproof",
+  "base_artist": "One Direction",
+  "createdAt": "2026-02-10T13:23:12.380477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "Against The Current",
+      "has_synced": false,
+      "path": "select/01_Fireproof_Against_The_Current.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fireproof (acoustic version)",
+      "artist": "Against The Current",
+      "has_synced": true,
+      "path": "select/02_Fireproof_(acoustic_version)_Against_The_Current.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/03_Fireproof_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "KilLove Fireproof!",
+      "artist": "暁Records",
+      "has_synced": true,
+      "path": "select/04_KilLove_Fireproof!_暁Records.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KilLove Fireproof!",
+      "artist": "Stack",
+      "has_synced": true,
+      "path": "select/05_KilLove_Fireproof!_Stack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "Pillar",
+      "has_synced": false,
+      "path": "select/06_Fireproof_Pillar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "Pillar",
+      "has_synced": true,
+      "path": "select/07_Fireproof_Pillar.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "Coleman Hell",
+      "has_synced": false,
+      "path": "select/08_Fireproof_Coleman_Hell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fireproof Beat",
+      "artist": "Adventure Time feat. Andy Milonakis",
+      "has_synced": false,
+      "path": "select/09_Fireproof_Beat_Adventure_Time_feat._Andy_Milonakis.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fireproof Beat (feat. Andy Milonakis)",
+      "artist": "Adventure Time",
+      "has_synced": true,
+      "path": "select/10_Fireproof_Beat_(feat._Andy_Milonakis)_Adventure_Time.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/11_Fireproof_The_National.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fireproof (Live Acoustic)",
+      "artist": "Pillar",
+      "has_synced": true,
+      "path": "select/12_Fireproof_(Live_Acoustic)_Pillar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fireproof",
+      "artist": "Banner Pilot",
+      "has_synced": true,
+      "path": "select/13_Fireproof_Banner_Pilot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fireproof - Acoustic",
+      "artist": "Against The Current",
+      "has_synced": true,
+      "path": "select/14_Fireproof_-_Acoustic_Against_The_Current.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fireproof",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Fireproof_One_Direction.txt"
+    }
+  ]
+}
